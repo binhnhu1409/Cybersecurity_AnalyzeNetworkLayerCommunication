@@ -23,3 +23,14 @@ In the DNS and ICMP log, you find the following information:
   6. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
 
 Now that you have captured data packets using a network analyzer tool, it is your job to identify which network protocol and service were impacted by this incident. Then, you will need to write a follow-up report. 
+
+## Tasks have been done
+- [x] Review the scenario
+- [x] Write an [incident report](https://github.com/binhnhu1409/Cybersecurity_AnalyzeNetworkLayerCommunication/blob/main/Cybersecurity%20Incident%20Report.pdf) following this structure:
+
+      - State when the problem was first reported.
+      - Provide the scenario, events, and symptoms identified when the event was first reported.
+      - Describe the information discovered while investigating the issue up to this point.
+      - Explain the current status of the issue.
+      - Provide the suspected root cause of the problem.
+  
